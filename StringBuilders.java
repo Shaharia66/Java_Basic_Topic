@@ -11,3 +11,4 @@ public class StringBuilders {
 
     }
 }
+// stringBuffers are same with string StringBuilder
