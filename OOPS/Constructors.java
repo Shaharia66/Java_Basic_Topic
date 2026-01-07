@@ -53,36 +53,36 @@
 
 
 
-// COPY  Constructors::
+// // COPY  Constructors::
 
-package OOPS;
+// package OOPS;
 
-class Student{
-    String name ;
-    int age ;
+// class Student{
+//     String name ;
+//     int age ;
 
-    public void printInfo(){
-        System.out.println(this.name);
-        System.out.println(this.age );
-    }
-    Student(Student s2){
-        System.out.println("constructor called.");
-        this.name=s2.name;
-        this.age=s2.age;
-    }
-    Student(){
+//     public void printInfo(){
+//         System.out.println(this.name);
+//         System.out.println(this.age );
+//     }
+//     Student(Student s2){
+//         System.out.println("constructor called.");
+//         this.name=s2.name;
+//         this.age=s2.age;
+//     }
+//     Student(){
 
-    }
-}
+//     }
+// }
 
-public class Constructors {
-    public static void main(String[] args) {
-        Student s1=new Student();
-        s1.name="rahim";
-        s1.age=25;
+// public class Constructors {
+//     public static void main(String[] args) {
+//         Student s1=new Student();
+//         s1.name="rahim";
+//         s1.age=25;
 
-        Student s2=new Student(s1);
-        s2.printInfo();
-    }
-}
+//         Student s2=new Student(s1);
+//         s2.printInfo();
+//     }
+// }
 
