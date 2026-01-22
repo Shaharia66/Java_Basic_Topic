@@ -1,6 +1,6 @@
 
 // //((SINGLE LEVEL INHERITANCE))
-// package OOPS;
+// package oops;
 
 // class Shape{
 //     String color;
@@ -31,7 +31,7 @@
 
 
 // //((MULTI LEVEL INHERITANCE))
-// package OOPS;
+// package oops;
 
 // class Shape{
 //     String color;
@@ -69,7 +69,7 @@
 
 
 //((HIERARCHIAL LEVEL INHERITANCE))
-package OOPS;
+package oops;
 
 class Shape{
     String color;

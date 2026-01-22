@@ -1,4 +1,4 @@
-// package OOPS;
+// package oops;
 
 // abstract class Animal{
 //     abstract void walk();

@@ -1,5 +1,5 @@
 // // non parameterised constructor::
-// package OOPS;
+// package oops;
 
 // class Student{
 //     String name ;
@@ -27,7 +27,7 @@
 
 // // parameterized Constructors::
 
-// package OOPS;
+// package oops;
 
 // class Student{
 //     String name ;
@@ -55,7 +55,7 @@
 
 // // COPY  Constructors::
 
-// package OOPS;
+// package oops;
 
 // class Student{
 //     String name ;

@@ -1,4 +1,4 @@
-package OOPS;
+package oops;
 
 class Student{
     String name;

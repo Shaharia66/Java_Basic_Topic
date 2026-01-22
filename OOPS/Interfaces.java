@@ -1,4 +1,4 @@
-package OOPS;
+package oops;
 
 interface Animal2{
     int eye=2;
